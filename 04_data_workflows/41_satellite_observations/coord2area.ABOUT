@@ -1,0 +1,11 @@
+# Component information
+name: coord2area.py
+description: Python script for resampling
+copyright: 2012-2019, Satpy developers
+license_spdx: GPL-3.0
+home_url: https://github.com/pytroll/satpy/blob/c20c3bb7042c819baffbb187f1ccaa9efbd74347/utils/coord2area_def.py
+date: 2019-12-26
+ 
+# File(s) associated to this component
+* about_resource: ./04_data_workflows/41_satellite_observations/coord2area_def.py
+
